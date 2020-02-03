@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jiasheng Zhang"
 title_separator          : "-"
-name                     : &name "Jiasheng Zhang (张嘉昇)"
+name                     : &name "Jiasheng Zhang"
 description              : &description "master student, Computer Science Department, UESTC "
 url                      : https://zjs123.github.io/Jiasheng-Zhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiasheng Zhang (张嘉昇)"
+  name             : "Jiasheng Zhang"
   avatar           : "profile.png"
   bio              : "master student, Computer Science Department, UESTC "
   location         : "Cheng Du, Si Chuan"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zjs123"
+  github           : "zjs123.github.io/Jiasheng-Zhang.github.io/"
   google_plus      :
   keybase          :
   instagram        :
