@@ -9,3 +9,7 @@ redirect_from:
 ---
 
 this is Jiasheng's home on the web!
+
+Lorem ipsum.
+
+
